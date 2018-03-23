@@ -1,0 +1,19 @@
+{
+  "name": "prjr",
+  "version": "0.0.1-alpha",
+  "description": "Projects. All of the Projects.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunstontc/prjr.git"
+  },
+  "author": "Clay Dunston <dunstontc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunstontc/prjr/issues"
+  },
+  "homepage": "https://github.com/dunstontc/prjr#readme"
+}
